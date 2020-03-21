@@ -10,9 +10,6 @@ Here are the screenshots for mobile and web
 #### Mobile View
 ![Mobile](screenshots/mobile.png)
 
-#### Bottom Desktop
-![Bottom Desktop](screenshots/bottom_web.png)
-
 #### Bottom Mobile
 ![Mobile Bottom](screenshots/bottom_mobile.png)
 
