@@ -21,10 +21,12 @@ ul > li{
     padding-right: 4%;
 }
 
-
-
 .heading{
+    color:#2196F3;
+}
 
+.sub-heading {
+    color: #BBDEFB;
 }
 
 .about-info {
